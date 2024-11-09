@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supporto Palestina - Notizie e Approfondimenti</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Supporto Palestina</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="notizie.html">Notizie</a>
+            <a href="supporto.html">Come Supportare</a>
+            <a href="contatti.html">Contatti</a>
+        </nav>
+    </header>
+    <main>
+        <section class="news">
+            <h2>Ultime Notizie</h2>
+            <article>
+                <h3>Notizia 1</h3>
+                <p>Breve descrizione della notizia...</p>
+                <a href="#">Leggi di più</a>
+            </article>
+            <article>
+                <h3>Notizia 2</h3>
+                <p>Breve descrizione della notizia...</p>
+                <a href="#">Leggi di più</a>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>© 2023 Supporto Palestina</p>
+    </footer>
+</body>
+</html>
